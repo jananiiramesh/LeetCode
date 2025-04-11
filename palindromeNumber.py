@@ -1,3 +1,4 @@
+#any Negative number is by default False. 0 will by default by True. All you gotta do is reverse the number
 class Solution(object):
     def isPalindrome(self, x):
         """
