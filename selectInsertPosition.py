@@ -15,3 +15,4 @@ class Solution:
                     return i
             # If target is greater than all elements, return the length of the list
             return len(nums)
+            
