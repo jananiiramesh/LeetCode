@@ -24,3 +24,5 @@ class Solution(object):
                 total += value
                 prev_value = value
         return total
+
+
